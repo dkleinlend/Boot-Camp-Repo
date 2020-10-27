@@ -14,7 +14,7 @@
 
 * [Rubric1](../../02-Homework/02-Python/Instructions/FinTech_Unit_2_Homework_%20Grading_Rubric.pdf)
 
-* [Rubric1](../../02-Homework/02-Python/Instructions/FinTech_Unit_2_Homework_%20Grading_Rubric%20-%20PyBank.pdf)
+* [Rubric2](../../02-Homework/02-Python/Instructions/FinTech_Unit_2_Homework_%20Grading_Rubric%20-%20PyBank.pdf)
 
 - - -
 
